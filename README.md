@@ -1,3 +1,3 @@
 # Todo_App_Backend
-source code upload in master branch --check-out
+source code upload in master branch checkout
 
